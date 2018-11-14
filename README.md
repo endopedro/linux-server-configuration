@@ -111,6 +111,6 @@ application.secret_key = 'supersecret'
 Visible at http://34.200.250.175
 
 ## References
-[Digital Ocean: How To Set Up Apache Virtual Hosts on Ubuntu 14.04 LTS](https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-ubuntu-14-04-lts)
-[Udacity: Configuring Linux Web Servers](https://br.udacity.com/course/configuring-linux-web-servers--ud299)
-[Ubuntu: HTTPD - Servidor Web Apache2](https://help.ubuntu.com/lts/serverguide/httpd.html.pt-BR)
+- [Digital Ocean: How To Set Up Apache Virtual Hosts on Ubuntu 14.04 LTS](https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-ubuntu-14-04-lts)
+- [Udacity: Configuring Linux Web Servers](https://br.udacity.com/course/configuring-linux-web-servers--ud299)
+- [Ubuntu: HTTPD - Servidor Web Apache2](https://help.ubuntu.com/lts/serverguide/httpd.html.pt-BR)
